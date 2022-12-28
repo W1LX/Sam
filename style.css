@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}   
+header {
+background: #0776A0;
+width: 959px;
+height: 101px;
+}
+
+header img {
+position: absolute;
+margin: 20px 839px 21px 15px;
+}
+
+a {
+text-decoration: none;
+border-radius: 10px;
+color:black;
+background: #FFB600;
+font-size: 36px;
+position: absolute;
+margin: 40px 689px 21px 135px;
+padding: 0px 5px 0px 5px;
+}
+
+.zogolovok1 {
+    font-size: 48px;
+    width: 396px;
+    height:65px;
+    margin-left:280px;
+    margin-top:34px; 
+}
+p img {
+    margin: 15px
+}
+h2  {
+    color: red;
+    font-size: 36px;
+    margin-left: 42px;
+}
+
+ul {
+    list-style:url();
+    margin-left: 42px;
+    font-size:24px;
+}
+
+.prazdniki {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    width: 596px;
+    text-align:center;
+    padding:32px;
+}
+
+footer {
+    color: white;
+    width: 959px;
+    height: 161px;
+    padding: 10px;
+}
+
+footer p {
+    color: white;
+    font-size: 24px;
+    margin-top: 30px;
+    margin-left: 30px;
+}  
